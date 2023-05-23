@@ -7,3 +7,4 @@
 - Tips for using Effect Hook
   - Multiple Effects
   - Dependency Array
+# localStoarge-MultiEffects-SkipEffects
